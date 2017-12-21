@@ -20,7 +20,6 @@ function johnLennonFacts (facts) {
   while (i < facts.length) {
     arr[i] = facts[i] + "!!!"
     i++
-    j++
   }
   return arr
 }
